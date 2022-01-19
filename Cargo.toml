@@ -2,6 +2,9 @@
 name = "serde-chrono-str"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/cameron1024/serde-chrono-str"
+license = "MIT"
+description = "Serde serializer/deserializer for NaiveDateTime to/from strings containing integers"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
